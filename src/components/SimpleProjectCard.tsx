@@ -3,7 +3,7 @@
 import { MagicCard } from "./ui/magic-card";
 import ShineBorder from "./ui/shine-border";
 import { Link } from "@radix-ui/themes";
-import Image from "next/image";
+// import Image from "next/image";
 import { bricolage_grotesque, inter } from "@/utils/fonts";
 import { Project } from "@/types/project";
 import { useDarkMode } from "@/hooks/useDarkMode";
@@ -26,13 +26,13 @@ const SimpleProjectCard = () => {
           >
             <div className="w-[10vw] max-[1285px]:w-[13vw]">
               <Link href="#" target="_blank">
-                <Image
+                {/* <Image
                   src={project.logo}
                   alt="company-logo"
                   width={50}
                   height={50}
                   className="rounded-full max-lg:h-10 max-lg:w-10"
-                />
+                /> */}
               </Link>
             </div>
             <div className="max-lg:mt-3">
