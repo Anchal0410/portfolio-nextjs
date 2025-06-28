@@ -7,7 +7,6 @@ import {
   SunIcon,
   MoonIcon,
   FileIcon,
-  RowsIcon,
   LinkedInLogoIcon,
   CodeIcon,
   HomeIcon,

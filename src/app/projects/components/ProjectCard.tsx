@@ -7,7 +7,6 @@ import { Project } from "@/types/project";
 import { bricolage_grotesque, inter } from "@/utils/fonts";
 import { GitHubLogoIcon, GlobeIcon } from "@radix-ui/react-icons";
 import { Badge, Link } from "@radix-ui/themes";
-import Image from "next/image";
 
 const ProjectCard = (props: Project) => {
   const { isDarkMode } = useDarkMode();
