@@ -2,7 +2,7 @@ import Skills from "@/components/Skills";
 import Experience from "@/components/Experience";
 import Education from "@/components/Education";
 import Contact from "@/components/Contact";
-import GitGraph from "./components/GitGraph";
+// import GitGraph from "./components/GitGraph";
 import InitialLanding from "./components/InitialLanding";
 import ProjectCardList from "../projects/components/ProjectCardList";
 
@@ -18,7 +18,7 @@ export default function Home() {
         <ProjectCardList />
       </div>
 
-      <GitGraph />
+      {/* <GitGraph /> */}
 
       <div className="w-full flex justify-center mt-12">
         <Skills />

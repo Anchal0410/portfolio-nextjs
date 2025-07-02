@@ -42,6 +42,7 @@ const data: string[] = [
   "MySQL",
   "Turborepo",
   "Docker",
+  "Redis",
   "AWS",
   "Redux",
   "Tailwind CSS",

@@ -30,7 +30,7 @@ export const experienceData: I_Experience[] = [
 export const educationData: I_Education[] = [
   {
     institute_link: "https://www.thapar.edu/",
-    institute_logo: "/tietlogo.jfif",
+    institute_logo: "/thapar-logo.png",
     course_title: "Master's of Computer Application",
     ending_date: "Expected July 2026",
     institute_name: "Thapar Institute of Engineering and Technology",

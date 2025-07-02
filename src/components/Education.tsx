@@ -32,7 +32,7 @@ const Education = () => {
                   alt="institute-logo"
                   width={50}
                   height={50}
-                  className="rounded-lg pb-3"
+                  className="rounded-lg mb-3"
                 />
               </Link>
             </div>
