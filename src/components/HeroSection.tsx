@@ -20,8 +20,8 @@ export default function HeroSection() {
           <h1
             className={`mt-2 max-sm:mt-5 max-sm:px-3 !text-base max-sm:!text-sm text-center !font-normal !tracking-normal inter !leading-6 ${inter}`}
           >
-            i work on the logic and the implementation and the design and the
-            delivery and the management of the project, i mean i am a full stack
+            i work on the logic, the implementation, the design, the delivery
+            and the management of the project, i mean i am a full stack
             developer, and make shit happen. deep into code and cs; anything
             that pushes the limits.
             <br />
