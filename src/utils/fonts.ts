@@ -12,4 +12,4 @@ const inter_init = Inter({
 })
 
 export const bricolage_grotesque = bricolage_grotesque_init.className;
-export const inter = inter_init.className;
+export const inter = inter_init.className; 
