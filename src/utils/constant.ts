@@ -2,13 +2,21 @@ import { I_Education, I_Experience } from "@/types/project";
 
 export const experienceData: I_Experience[] = [
   {
-    company_link: "https://www.kreup.ai/",
-    company_logo: "/kreup-ai.jpg",
-    company_name: "Kreup AI",
+    company_link: "https://www.lumotalk.com/",
+    company_logo: "/lumotalk.png",
+    company_name: "Lumotalk",
     duration: "Oct 2025 - Present",
     job_title: "Software Developer Intern",
     description: "",
   },
+  // {
+  //   company_link: "https://www.kreup.ai/",
+  //   company_logo: "/kreup-ai.jpg",
+  //   company_name: "Kreup AI",
+  //   duration: "Oct 2025 - Present",
+  //   job_title: "Software Developer Intern",
+  //   description: "",
+  // },
   {
     company_link: "https://www.hirefinn.ai/",
     company_logo: "/finnai.png",
@@ -33,14 +41,14 @@ export const experienceData: I_Experience[] = [
     job_title: "Full Stack Developer Intern",
     description: "",
   },
-  {
-    company_link: "https://www.linkedin.com/company/ambudoor/",
-    company_logo: "/stealth-startup.jpeg",
-    company_name: "Indrav ",
-    duration: "Feb 2025 - April 2025",
-    job_title: "Frontend Developer Intern",
-    description: "",
-  },
+  // {
+  //   company_link: "https://www.linkedin.com/company/ambudoor/",
+  //   company_logo: "/stealth-startup.jpeg",
+  //   company_name: "Indrav ",
+  //   duration: "Feb 2025 - April 2025",
+  //   job_title: "Frontend Developer Intern",
+  //   description: "",
+  // },
 ];
 
 export const educationData: I_Education[] = [
