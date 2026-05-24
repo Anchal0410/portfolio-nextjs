@@ -5,7 +5,7 @@ export const experienceData: I_Experience[] = [
     company_link: "https://www.lumotalk.com/",
     company_logo: "/lumotalk.png",
     company_name: "Lumotalk",
-    duration: "Nov 2025 - Present",
+    duration: "Jan 2026 - Present",
     job_title: "Software Developer ",
     description: "",
   },
