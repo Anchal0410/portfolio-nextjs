@@ -2,11 +2,19 @@ import { I_Education, I_Experience } from "@/types/project";
 
 export const experienceData: I_Experience[] = [
   {
+    company_link: "https://www.justvingo.com/",
+    company_logo: "/vingo1.png",
+    company_name: "Vingo",
+    duration: "May-2026 - Present",
+    job_title: "Software Engineer Intern",
+    description: "",
+  },
+  {
     company_link: "https://www.lumotalk.com/",
     company_logo: "/lumotalk.png",
     company_name: "Lumotalk",
-    duration: "Jan 2026 - Present",
-    job_title: "Software Developer ",
+    duration: "Jan 2026 - May-2026",
+    job_title: "Software Developer Intern",
     description: "",
   },
   // {
