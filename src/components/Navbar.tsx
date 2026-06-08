@@ -51,7 +51,7 @@ const Navbar = () => {
             </Tooltip>
           </Link>
           <Link
-            href="https://drive.google.com/file/d/140jAe-QSX7OkDXV0AIeuMAfHyDlG-ykV/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/19wRo3KeINmN2zN8l_NiRBduhuxbb234x/view?usp=drivesdk"
             target="_blank"
             underline="none"
           >
