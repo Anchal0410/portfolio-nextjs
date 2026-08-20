@@ -6,7 +6,7 @@ export const experienceData: I_Experience[] = [
     company_logo: "/vingo1.png",
     company_name: "Vingo",
     duration: "May-2026 - Present",
-    job_title: "Software Engineer Intern",
+    job_title: "Software Engineer",
     description: "",
   },
   {
@@ -14,7 +14,7 @@ export const experienceData: I_Experience[] = [
     company_logo: "/lumotalk.png",
     company_name: "Lumotalk",
     duration: "Jan 2026 - May-2026",
-    job_title: "Software Developer Intern",
+    job_title: "Software Developer",
     description: "",
   },
   // {
@@ -73,7 +73,7 @@ export const educationData: I_Education[] = [
     institute_link: "https://www.thapar.edu/",
     institute_logo: "/thapar-logo.png",
     course_title: "Master's of Computer Application",
-    ending_date: "Expected July 2026",
+    ending_date: "May 2026",
     institute_name: "Thapar Institute of Engineering and Technology",
     cgpa: 9.66,
     description: "",

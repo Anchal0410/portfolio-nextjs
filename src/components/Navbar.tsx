@@ -51,7 +51,7 @@ const Navbar = () => {
             </Tooltip>
           </Link>
           <Link
-            href="https://drive.google.com/file/d/19wRo3KeINmN2zN8l_NiRBduhuxbb234x/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/16gIGO639z-QpkQRfWg2rDabwc_i1gecL/view?usp=drivesdk"
             target="_blank"
             underline="none"
           >
@@ -132,9 +132,9 @@ const Navbar = () => {
             <div className="flex items-center">
               <button>
                 {isDarkMode ? (
-                  <MoonIcon className="w-[18px] h-[18px] max-sm:w-[14px] max-sm:h-[14px]" />
-                ) : (
                   <SunIcon className="w-5 h-5 max-sm:w-[15px] max-sm:h-[15px]" />
+                ) : (
+                  <MoonIcon className="w-[18px] h-[18px] max-sm:w-[14px] max-sm:h-[14px]" />
                 )}
               </button>
             </div>
