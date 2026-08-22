@@ -13,8 +13,8 @@ export const experienceData: I_Experience[] = [
     company_link: "https://www.lumotalk.com/",
     company_logo: "/lumotalk.png",
     company_name: "Lumotalk",
-    duration: "Jan 2026 - May-2026",
-    job_title: "Software Developer",
+    duration: "Jan 2026 - May 2026",
+    job_title: "Software Engineer Intern",
     description: "",
   },
   // {
