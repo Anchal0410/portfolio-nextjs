@@ -54,6 +54,24 @@ export default ProjectCardList;
 
 const data: Project[] = [
   {
+  // logo: "/shortpath.png",
+  title: "Shortpath",
+  description:
+    "A production-grade URL shortener with distributed ID generation, Redis caching, and asynchronous click-analytics processed by a dedicated BullMQ worker. Built with a hexagonal-architecture NestJS backend and a Next.js frontend, horizontally scaled behind Nginx and deployed across Render and Vercel.",
+  techStack: [
+    "NestJS",
+    "Next.js",
+    "TypeScript",
+    "PostgreSQL",
+    "Redis",
+    "BullMQ",
+    "Docker",
+    "Nginx",
+  ],
+  link: "https://shortpath-web.vercel.app", // your deployed frontend URL — swap in
+  source: "https://github.com/Anchal0410/shortpath-web",
+},
+  {
     // logo: "/campusconnect.png",
     title: "CampusConnect",
     description:
